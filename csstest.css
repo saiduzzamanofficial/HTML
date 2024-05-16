@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    color: #ed3e3e;
+    text-decoration-line: underline;
+
+}
+
+#p1 {
+    text-align: justify;
+}
+
+h3 {
+    font-style: italic;
+    text-decoration: underline;
+    color: #07dbb4;
+}
+
+#p2 {
+    text-align: right;
+}
+
+#p3 {
+    text-align: left;
+}
+
+#p4 {
+    text-indent: 10%;
+    text-align: justify;
+}
+
+#p5 {
+    text-transform: capitalize;
+}
+
+#p6 {
+    text-transform: uppercase;
+}
+
+#p7 {
+    text-transform: lowercase;
+}
+
+#p8 {
+    line-height: 500%;
+    letter-spacing: .2cm;
+    text-transform: uppercase;
+    color: #7968fc;
+}
